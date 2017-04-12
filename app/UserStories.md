@@ -18,4 +18,10 @@
 
 10. David is a student at Uva. He sometimes visits our website to check recent dishes that are offered by the dining hall. Since all he needs is the homepage, he is not asked for signing up.
 
+11. John participates in the UVa Sustainability program. He uses the search functionality on our website to investigate how frequent local and sustainable food appears in the dining hall.
 
+12. Susan works for UVa Dining. At the end of each month, she needs to know if all three dining halls provide enough choices of food for students to select. So she searches by meals' names and counts the number of occurrence.
+
+13. Jack wants to know what kind of dishes Runk Dining hall offers today so he uses our website to search by today's date. He can then decide whether he wants to go to the dining hall based on the result. 
+
+14. Bob works for the Fresh Food Company and he is asked to check his colleague's work. He wants to know if his colleague, Mike, has changed the menu correctly. So he searches the listing by the new description of the dish. 
